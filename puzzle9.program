@@ -1,0 +1,12 @@
+function rectangle (direction, n){
+  var count = 0
+  while count < n{
+    direction
+    count = count + 1
+  }
+}
+
+rectangle(down, 9)
+rectangle(right, 9)
+rectangle(up, 9)
+rectangle(left, 9)
