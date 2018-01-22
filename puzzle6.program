@@ -1,0 +1,24 @@
+right
+if (getColor = "red"){
+  up 
+  up
+  up
+  }
+else if (getColor = "blue"){
+  down
+  down
+  down
+  }
+var center color = getColor
+if (getColor = "red"){
+  left
+  }
+else if (getColor = "blue){
+  right
+  }
+if (center color = "red"){
+  up
+  }
+else if (center color = "blue"){
+  down
+  }
