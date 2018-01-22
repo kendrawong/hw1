@@ -1,0 +1,16 @@
+function openAndObtain{
+  right
+  var current color = getColor
+  down
+  setColor(current color)
+  right
+  right
+  }
+  
+down
+down
+down
+down
+openAndObtain
+up
+openAndObtain
